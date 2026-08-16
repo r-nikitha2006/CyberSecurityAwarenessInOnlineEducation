@@ -35,5 +35,4 @@ Add more real-world cybersecurity scenarios
 
 Author
 Nikitha
-Add multilingual support
-Add an online cybersecurity awareness test
+
